@@ -1,0 +1,7 @@
+com\atguigu\search\service\SearchService.class
+com\atguigu\search\listener\ApplicationRunListener.class
+com\atguigu\search\listener\RabbitMQListener.class
+com\atguigu\search\SearchApplication.class
+com\atguigu\search\config\SearchConfiguration.class
+com\atguigu\search\service\impl\SearchServiceImpl.class
+com\atguigu\search\controller\SearchController.class

@@ -1,0 +1,9 @@
+com\atguigu\product\controller\ProductController.class
+com\atguigu\product\mapper\ProductMapper.class
+com\atguigu\product\service\impl\ProductServiceImpl.class
+com\atguigu\product\service\ProductService.class
+com\atguigu\product\param\ProductParamInteger.class
+com\atguigu\product\config\ProductConfiguration.class
+com\atguigu\product\mapper\PictureMapper.class
+com\atguigu\product\listener\ProductListener.class
+com\atguigu\product\ProductApplication.class

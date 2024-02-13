@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/b2c-cloud-store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-common-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store-common-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-common-feign/src/main/java/com/atguigu/pojo/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/store-common-feign/src/main/java/com/atguigu/pojo/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-carousel/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-carousel/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-cart/src/main/java/com/atguigu/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-cart/src/main/java/com/atguigu/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-cart/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-category/src/main/java/com/atguigu/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-category/src/main/java/com/atguigu/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-category/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-category/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-collect/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-collect/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-order/src/main/resources/mappers/OrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-order/src/main/resources/mappers/OrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-front-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/store-front-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store-static-oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store-static-oss/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.2.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectId" id="2GCbdWUDaiTBw5Xl5XrXQFf2Ejj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1666719669571" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.291954" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\order" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\product" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\java\com\atguigu\admin\config" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-common-feign\src\main\java\com\atguigu" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.clients" />
+      <recent name="com.atguigu.admin.controller" />
+      <recent name="com.atguigu.pojo" />
+      <recent name="com.atguigu.param" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.service" />
+      <recent name="com.atguigu.admin.service" />
+      <recent name="com.atguigu.order.service" />
+      <recent name="com.atguigu.cart.service" />
+      <recent name="com.atguigu.collect.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StaticOssApplication">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="batchservice" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-category" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.CategoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-collect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.collect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.collect.CollectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.user.FrontUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-static-oss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.oss.StaticOssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.batchservice" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.CollectApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.CategoryApplication" />
+      <item itemvalue="Spring Boot.FrontUserApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.StaticOssApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CategoryApplication" />
+        <item itemvalue="Spring Boot.StaticOssApplication" />
+        <item itemvalue="Spring Boot.SearchApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.FrontUserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2584523" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="" />
+      <created>1665895600457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665895600457</updated>
+      <workItem from="1665895602250" duration="17523000" />
+      <workItem from="1665968533039" duration="14673000" />
+      <workItem from="1665994689204" duration="305000" />
+      <workItem from="1665996320318" duration="17616000" />
+      <workItem from="1666057330629" duration="20774000" />
+      <workItem from="1666154643144" duration="1110000" />
+      <workItem from="1666156120074" duration="160000" />
+      <workItem from="1666156299970" duration="815000" />
+      <workItem from="1666157171198" duration="56869000" />
+      <workItem from="1666336650213" duration="7285000" />
+      <workItem from="1666399079957" duration="107385000" />
+      <workItem from="1666709300729" duration="7878000" />
+      <workItem from="1666790625103" duration="310000" />
+      <workItem from="1666791381657" duration="258000" />
+    </task>
+    <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
+      <created>1665920662745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665920662745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建">
+      <created>1665968613504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665968613504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03_功能实现_用户服务实现6个接口">
+      <created>1665991187927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665991187927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="04_功能实现_静态资源处理和oss服务">
+      <created>1665996604540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665996604540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="05_功能实现_轮播图类别和首页部分接口">
+      <created>1666020055349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666020055349</updated>
+    </task>
+    <task id="LOCAL-00006" summary="07_功能实现_实现商品功能和添加缓存功能">
+      <created>1666085652741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666085652741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="08_功能实现_收藏和搜索模块实现">
+      <created>1666253554353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666253554353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="09_功能实现_购物车,订单,地址以及后台管理用户模块">
+      <created>1666541797117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666541797117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10_功能实现_后台管理类别模块">
+      <created>1666596579684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666596579684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11_功能实现_后台管理商品和订单模块">
+      <created>1666685310412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666685310412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01_项目基本结构_用户和商品以及网关和feign模块" />
+    <MESSAGE value="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建" />
+    <MESSAGE value="03_功能实现_用户服务实现6个接口" />
+    <MESSAGE value="04_功能实现_静态资源处理和oss服务" />
+    <MESSAGE value="05_功能实现_轮播图类别和首页部分接口" />
+    <MESSAGE value="07_功能实现_实现商品功能和添加缓存功能" />
+    <MESSAGE value="08_功能实现_收藏和搜索模块实现" />
+    <MESSAGE value="09_功能实现_购物车,订单,地址以及后台管理用户模块" />
+    <MESSAGE value="10_功能实现_后台管理类别模块" />
+    <MESSAGE value="11_功能实现_后台管理商品和订单模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="11_功能实现_后台管理商品和订单模块" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="0" width="1038" height="860" key="#AdminApplication" timestamp="1666577691006">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="211" y="0" width="1038" height="860" key="#AdminApplication/0.0.1440.860@0.0.1440.860" timestamp="1666577691006" />
+    <state x="211" y="0" width="1038" height="860" key="#AdminApplication_(1)" timestamp="1666577919249">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="211" y="0" width="1038" height="860" key="#AdminApplication_(1)/0.0.1440.860@0.0.1440.860" timestamp="1666577919249" />
+    <state x="112" y="0" key="#Project_Structure" timestamp="1666618864296">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="112" y="0" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1666618864296" />
+    <state x="131" y="0" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1666402583914" />
+    <state x="95" y="63" width="1345" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666685223926">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="95" y="63" width="1345" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1666685223926" />
+    <state x="330" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1665923385025">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="330" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1665923385025" />
+    <state x="437" y="5" key="#com.intellij.ide.util.MemberChooser" timestamp="1666681544534">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="437" y="5" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1666681544534" />
+    <state x="510" y="6" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1666428606567" />
+    <state x="444" y="183" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1666318020226">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="444" y="183" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1666318020226" />
+    <state x="94" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1666178197703">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1666178197703" />
+    <state x="445" y="136" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666341487884">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="445" y="136" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1666341487884" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1666685308452">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1666685308452" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1665996602922" />
+    <state width="638" height="657" key="DebuggerActiveHint" timestamp="1666598792231">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="638" height="657" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1666598792231" />
+    <state x="400" y="73" key="FileChooserDialogImpl" timestamp="1665896284602">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="400" y="73" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1665896284602" />
+    <state width="1375" height="55" key="GridCell.Tab.0.bottom" timestamp="1666790941893">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1375" height="55" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1666790941893" />
+    <state width="1194" height="776" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="1375" height="55" key="GridCell.Tab.0.center" timestamp="1666790941891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1375" height="55" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1666790941891" />
+    <state width="1194" height="776" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="1375" height="55" key="GridCell.Tab.0.left" timestamp="1666790941891">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1375" height="55" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1666790941891" />
+    <state width="1194" height="776" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="1375" height="55" key="GridCell.Tab.0.right" timestamp="1666790941892">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1375" height="55" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1666790941892" />
+    <state width="1194" height="776" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="905" height="495" key="GridCell.Tab.1.bottom" timestamp="1666703784075">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="495" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1666703784075" />
+    <state width="1194" height="776" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="905" height="495" key="GridCell.Tab.1.center" timestamp="1666703784075">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="495" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1666703784075" />
+    <state width="1194" height="776" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="905" height="495" key="GridCell.Tab.1.left" timestamp="1666703784075">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="495" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1666703784075" />
+    <state width="1194" height="776" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="905" height="495" key="GridCell.Tab.1.right" timestamp="1666703784075">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="495" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1666703784075" />
+    <state width="1194" height="776" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1666431531495" />
+    <state width="905" height="488" key="GridCell.Tab.2.bottom" timestamp="1666628555998">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="488" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1666628555998" />
+    <state width="1194" height="308" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1666431324712" />
+    <state width="905" height="488" key="GridCell.Tab.2.center" timestamp="1666628555998">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="488" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1666628555998" />
+    <state width="1194" height="308" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1666431324712" />
+    <state width="905" height="488" key="GridCell.Tab.2.left" timestamp="1666628555998">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="488" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1666628555998" />
+    <state width="1194" height="308" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1666431324712" />
+    <state width="905" height="488" key="GridCell.Tab.2.right" timestamp="1666628555998">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="905" height="488" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1666628555998" />
+    <state width="1194" height="308" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1666431324712" />
+    <state x="25" y="0" key="Maven.ArtifactSearchDialog" timestamp="1666692186550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="25" y="0" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1666692186550" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1666791641809">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1666791641809" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1665994458351" />
+    <state width="728" height="438" key="XDebugger.FullValuePopup" timestamp="1666624308008">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="728" height="438" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1666624308008" />
+    <state x="266" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1666790625188">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="266" y="174" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1666790625188" />
+    <state x="310" y="204" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1666336650909" />
+    <state x="0" y="149" key="new project wizard" timestamp="1666399100471">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1666268091045" />
+    <state x="0" y="149" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1666399100471" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-collect/src/main/java/com/atguigu/collect/service/impl/CollectServiceImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-cart/src/main/java/com/atguigu/listener/CartListener.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/controller/AdminUserController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/service/impl/AdminUserServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/service/impl/UserServiceImpl.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-user/src/main/java/com/atguigu/user/controller/FrontUserController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/controller/UserController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/controller/UserController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/controller/UserController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/atguigu/service/impl/UserServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-search/src/main/java/com/atguigu/search/service/impl/SearchServiceImpl.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-product/src/main/java/com/atguigu/product/service/impl/ProductServiceImpl.java</url>
+          <line>367</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-cart/src/main/java/com/atguigu/service/impl/CartServiceImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-product/src/main/java/com/atguigu/product/service/impl/ProductServiceImpl.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-category/src/main/java/com/atguigu/controller/CategoryController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-front-category/src/main/java/com/atguigu/service/impl/CategoryServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

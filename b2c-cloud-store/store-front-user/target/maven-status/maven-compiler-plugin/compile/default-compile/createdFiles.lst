@@ -1,0 +1,10 @@
+com\atguigu\user\constants\UserConstants.class
+com\atguigu\user\controller\FrontAddressController.class
+com\atguigu\user\FrontUserApplication.class
+com\atguigu\user\service\AddressService.class
+com\atguigu\user\mapper\AddressMapper.class
+com\atguigu\user\service\impl\AddressServiceImpl.class
+com\atguigu\user\controller\FrontUserController.class
+com\atguigu\user\service\impl\UserServiceImpl.class
+com\atguigu\user\service\UserService.class
+com\atguigu\user\mapper\UserMapper.class

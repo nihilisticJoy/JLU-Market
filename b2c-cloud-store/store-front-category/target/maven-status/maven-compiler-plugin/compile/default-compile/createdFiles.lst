@@ -1,0 +1,5 @@
+com\atguigu\controller\CategoryController.class
+com\atguigu\service\CategoryService.class
+com\atguigu\CategoryApplication.class
+com\atguigu\mapper\CategoryMapper.class
+com\atguigu\service\impl\CategoryServiceImpl.class

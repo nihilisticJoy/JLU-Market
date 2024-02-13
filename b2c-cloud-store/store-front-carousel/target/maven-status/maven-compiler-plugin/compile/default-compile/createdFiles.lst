@@ -1,0 +1,6 @@
+com\atguigu\carousel\service\impl\CarouselServiceImpl.class
+com\atguigu\carousel\controller\CarouselController.class
+com\atguigu\carousel\config\CarouselConfiguration.class
+com\atguigu\carousel\mapper\CarouselMapper.class
+com\atguigu\carousel\CarouselApplication.class
+com\atguigu\carousel\service\CarouselService.class

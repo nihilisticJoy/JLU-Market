@@ -1,0 +1,6 @@
+com\atguigu\collect\CollectApplication.class
+com\atguigu\collect\controller\CollectController.class
+com\atguigu\collect\pojo\Collect.class
+com\atguigu\collect\mapper\CollectMapper.class
+com\atguigu\collect\service\impl\CollectServiceImpl.class
+com\atguigu\collect\service\CollectService.class
